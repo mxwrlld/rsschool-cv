@@ -1,3 +1,2 @@
-# rsschool-cv
- my way to rsschool  
- https://mxwrlld.github.io/rsschool-cv/cv
+# HTML, CSS & Git Basics  
+https://mxwrlld.github.io/rsschool-cv/cv
